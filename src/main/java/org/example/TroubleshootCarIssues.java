@@ -49,5 +49,8 @@ public class TroubleshootCarIssues {
                 }
             }
         }
+        else{
+            System.out.println("you obviously did not enter what I wanted. Try again....");
+        }
     }
 }
